@@ -1,0 +1,56 @@
+patient_id,first_name,last_name,age,gender,blood_group,diagnosis,severity,status,prescription,dosage_frequency,assigned_doctor
+PT0001,Aarav,Sharma,36,Male,A+,Hypothyroidism,Moderate,Chronic,Levothyroxine 50mcg,Once daily,Dr. Kapoor
+PT0002,Priya,Patel,57,Male,O+,Vitamin D Deficiency,Low,Chronic,Cholecalciferol 1000IU,Twice daily,Dr. Torres
+PT0003,James,Smith,22,Female,A+,Hyperlipidemia,Moderate,Chronic,Atorvastatin 20mg,Once daily,Dr. Smith
+PT0004,Maria,Johnson,52,Male,B+,Depression,Moderate,Chronic,Fluoxetine 20mg,Once daily,Dr. Nguyen
+PT0005,David,Williams,68,Male,O-,Asthma,Low,Active,Salbutamol Inhaler,Once daily,Dr. Patel
+PT0006,Sarah,Brown,75,Male,O+,Type 2 Diabetes,High,Chronic,Metformin 500mg,Twice daily,Dr. Nguyen
+PT0007,Ravi,Jones,34,Male,O+,Hypothyroidism,Critical,Active,Levothyroxine 50mcg,Once daily,Dr. Johnson
+PT0008,Lisa,Garcia,19,Female,B+,Anemia,Moderate,Chronic,Ferrous Sulfate 325mg,Three times daily,Dr. Nguyen
+PT0009,Michael,Miller,69,Male,O+,Hyperlipidemia,Moderate,Chronic,Atorvastatin 20mg,Once daily,Dr. Patel
+PT0010,Ananya,Davis,19,Female,O+,Vitamin D Deficiency,Moderate,Chronic,Cholecalciferol 1000IU,Once daily,Dr. Torres
+PT0011,Carlos,Wilson,45,Male,A+,Anemia,Low,Chronic,Ferrous Sulfate 325mg,Twice daily,Dr. Johnson
+PT0012,Meera,Moore,51,Female,O+,GERD,Moderate,Chronic,Omeprazole 20mg,Three times daily,Dr. Johnson
+PT0013,Robert,Taylor,50,Male,O+,GERD,Moderate,Resolved,Omeprazole 20mg,As needed,Dr. Torres
+PT0014,Fatima,Anderson,49,Male,B+,Hypothyroidism,Low,Chronic,Levothyroxine 50mcg,Once daily,Dr. Smith
+PT0015,John,Thomas,84,Female,B+,GERD,High,Active,Omeprazole 20mg,Once daily,Dr. Johnson
+PT0016,Divya,Jackson,19,Female,A-,Type 2 Diabetes,Low,Resolved,Metformin 500mg,Once daily,Dr. Torres
+PT0017,William,White,83,Female,A+,Asthma,Low,Chronic,Salbutamol Inhaler,Twice daily,Dr. Torres
+PT0018,Pooja,Harris,51,Female,O+,Anemia,Low,Chronic,Ferrous Sulfate 325mg,Twice daily,Dr. Kapoor
+PT0019,Daniel,Martin,67,Female,O+,Hyperlipidemia,Moderate,Active,Atorvastatin 20mg,Three times daily,Dr. Torres
+PT0020,Kavya,Thompson,51,Male,A+,Type 2 Diabetes,Low,Active,Metformin 500mg,Twice daily,Dr. Smith
+PT0021,Matthew,Martinez,29,Male,O+,Hypothyroidism,Moderate,Resolved,Levothyroxine 50mcg,Once daily,Dr. Patel
+PT0022,Shreya,Robinson,29,Female,O+,Insomnia,Low,Active,Melatonin 5mg,Twice daily,Dr. Kapoor
+PT0023,Anthony,Clark,73,Male,O+,Lower Back Pain,Low,Active,Ibuprofen 400mg,Three times daily,Dr. Torres
+PT0024,Neha,Rodriguez,54,Female,A+,Asthma,Low,Chronic,Salbutamol Inhaler,Twice daily,Dr. Kapoor
+PT0025,Mark,Lewis,47,Female,A+,Lower Back Pain,High,Chronic,Ibuprofen 400mg,Once daily,Dr. Johnson
+PT0026,Aisha,Lee,21,Female,A+,Insomnia,Moderate,Resolved,Melatonin 5mg,Once daily,Dr. Smith
+PT0027,Paul,Walker,56,Female,O+,Anxiety Disorder,High,Chronic,Sertraline 50mg,Once daily,Dr. Kapoor
+PT0028,Sunita,Hall,64,Male,O+,Insomnia,High,Active,Melatonin 5mg,Once daily,Dr. Johnson
+PT0029,Steven,Allen,42,Male,O+,Allergic Rhinitis,Low,Active,Cetirizine 10mg,Once daily,Dr. Johnson
+PT0030,Geeta,Young,83,Male,A+,Migraine,Moderate,Active,Sumatriptan 50mg,Twice daily,Dr. Kapoor
+PT0031,Kevin,Hernandez,59,Male,A+,Depression,Moderate,Active,Fluoxetine 20mg,Once daily,Dr. Johnson
+PT0032,Sonal,King,19,Male,A-,Hypothyroidism,Low,Resolved,Levothyroxine 50mcg,Once daily,Dr. Johnson
+PT0033,Brian,Wright,79,Female,A+,Hypothyroidism,Low,Resolved,Levothyroxine 50mcg,Once daily,Dr. Kapoor
+PT0034,Nisha,Lopez,43,Male,AB+,Hypertension,Low,Active,Amlodipine 5mg,Once daily,Dr. Kapoor
+PT0035,George,Hill,53,Female,A+,Type 2 Diabetes,Low,Resolved,Metformin 500mg,As needed,Dr. Nguyen
+PT0036,Rekha,Scott,28,Female,A+,Hyperlipidemia,High,Chronic,Atorvastatin 20mg,As needed,Dr. Kapoor
+PT0037,Edward,Green,46,Female,A+,Allergic Rhinitis,Moderate,Chronic,Cetirizine 10mg,Once daily,Dr. Smith
+PT0038,Sita,Adams,34,Male,A+,Allergic Rhinitis,Low,Resolved,Cetirizine 10mg,Once daily,Dr. Torres
+PT0039,Ronald,Baker,52,Female,O+,GERD,Low,Resolved,Omeprazole 20mg,As needed,Dr. Johnson
+PT0040,Anjali,Gonzalez,59,Female,A+,Allergic Rhinitis,Low,Active,Cetirizine 10mg,As needed,Dr. Torres
+PT0041,Kenneth,Nelson,18,Male,AB+,Migraine,High,Resolved,Sumatriptan 50mg,Once daily,Dr. Kapoor
+PT0042,Deepa,Carter,74,Male,A+,Osteoarthritis,Moderate,Resolved,Celecoxib 200mg,Once daily,Dr. Johnson
+PT0043,Joshua,Mitchell,48,Female,A+,Allergic Rhinitis,Moderate,Active,Cetirizine 10mg,Once daily,Dr. Smith
+PT0044,Radha,Perez,19,Female,A+,Osteoarthritis,Low,Active,Celecoxib 200mg,Three times daily,Dr. Patel
+PT0045,Ryan,Roberts,83,Female,A+,Type 2 Diabetes,Moderate,Active,Metformin 500mg,Once daily,Dr. Smith
+PT0046,Lata,Turner,54,Female,A+,Allergic Rhinitis,High,Chronic,Cetirizine 10mg,Once daily,Dr. Johnson
+PT0047,Jacob,Phillips,79,Female,A+,GERD,Critical,Active,Omeprazole 20mg,Once daily,Dr. Nguyen
+PT0048,Usha,Campbell,71,Female,O+,Type 2 Diabetes,Low,Chronic,Metformin 500mg,Once daily,Dr. Smith
+PT0049,Gary,Parker,18,Female,B-,Lower Back Pain,Moderate,Active,Ibuprofen 400mg,Once daily,Dr. Johnson
+PT0050,Maya,Evans,21,Female,A+,Hyperlipidemia,Low,Active,Atorvastatin 20mg,Once daily,Dr. Smith
+PT0051,Nicholas,Edwards,25,Female,O+,Type 2 Diabetes,High,Chronic,Metformin 500mg,Once daily,Dr. Johnson
+PT0052,Parvati,Collins,50,Male,A+,Insomnia,Moderate,Active,Melatonin 5mg,Twice daily,Dr. Torres
+PT0053,Eric,Stewart,71,Male,A+,Vitamin D Deficiency,Low,Resolved,Cholecalciferol 1000IU,Once daily,Dr. Smith
+PT0054,Lakshmi,Sanchez,28,Female,A-,GERD,Low,Chronic,Omeprazole 20mg,Twice daily,Dr. Smith
+PT0055,Jonathan,Morris,41,Male,O+,Migraine,Low,Active,Sumatriptan 50mg,Once daily,Dr. Kapoor
